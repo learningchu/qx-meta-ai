@@ -1,7 +1,17 @@
 {
-  "meta ai": "https://8092-agqx74vxyycx35zqstp7dk3t4m.instabox.tech/metaai-icon.jpg",
-  "MetaAI": "https://8092-agqx74vxyycx35zqstp7dk3t4m.instabox.tech/metaai-icon.jpg",
-  "Meta AI": "https://8092-agqx74vxyycx35zqstp7dk3t4m.instabox.tech/metaai-icon.jpg",
-  "META AI": "https://8092-agqx74vxyycx35zqstp7dk3t4m.instabox.tech/metaai-icon.jpg",
-  "Muse": "https://8092-agqx74vxyycx35zqstp7dk3t4m.instabox.tech/metaai-icon.jpg"
+  "name": "MetaAI",
+  "icons": [
+    {
+      "name": "meta ai",
+      "url": "https://8092-agqx74vxyycx35zqstp7dk3t4m.instabox.tech/metaai-icon.jpg"
+    },
+    {
+      "name": "MetaAI",
+      "url": "https://8092-agqx74vxyycx35zqstp7dk3t4m.instabox.tech/metaai-icon.jpg"
+    },
+    {
+      "name": "Muse",
+      "url": "https://8092-agqx74vxyycx35zqstp7dk3t4m.instabox.tech/metaai-icon.jpg"
+    }
+  ]
 }
