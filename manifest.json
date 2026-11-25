@@ -1,0 +1,184 @@
+[
+ {
+  "tag": "AdBlock",
+  "file": "AdBlock.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/AdBlock.json",
+  "bytes": 17400
+ },
+ {
+  "tag": "Special",
+  "file": "Special.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Special.json",
+  "bytes": 2116
+ },
+ {
+  "tag": "PROXY",
+  "file": "PROXY.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Proxy.json",
+  "bytes": 16445
+ },
+ {
+  "tag": "Domestic",
+  "file": "Domestic.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Domestic.json",
+  "bytes": 15158
+ },
+ {
+  "tag": "Domestic IPs",
+  "file": "Domestic IPs.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Domestic_IPs.json",
+  "bytes": 102808
+ },
+ {
+  "tag": "LAN",
+  "file": "LAN.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/LAN.json",
+  "bytes": 187
+ },
+ {
+  "tag": "Apple Music",
+  "file": "Apple Music.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Apple_Music.json",
+  "bytes": 288
+ },
+ {
+  "tag": "Apple News",
+  "file": "Apple News.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Apple_News.json",
+  "bytes": 130
+ },
+ {
+  "tag": "Apple TV",
+  "file": "Apple TV.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Apple_TV.json",
+  "bytes": 162
+ },
+ {
+  "tag": "Crypto",
+  "file": "Crypto.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Crypto.json",
+  "bytes": 4369
+ },
+ {
+  "tag": "Speedtest",
+  "file": "Speedtest.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Speedtest.json",
+  "bytes": 188
+ },
+ {
+  "tag": "Microsoft",
+  "file": "Microsoft.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Microsoft.json",
+  "bytes": 11086
+ },
+ {
+  "tag": "Apple",
+  "file": "Apple.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Apple.json",
+  "bytes": 601
+ },
+ {
+  "tag": "Google",
+  "file": "Google.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Google.json",
+  "bytes": 11882
+ },
+ {
+  "tag": "Google Drive",
+  "file": "Google Drive.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/GoogleDrive.json",
+  "bytes": 165
+ },
+ {
+  "tag": "YouTube Music",
+  "file": "YouTube Music.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/YouTubeMusic.json",
+  "bytes": 60
+ },
+ {
+  "tag": "Google Search",
+  "file": "Google Search.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/GoogleSearch.json",
+  "bytes": 62
+ },
+ {
+  "tag": "Scholar",
+  "file": "Scholar.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Scholar.json",
+  "bytes": 1600
+ },
+ {
+  "tag": "push",
+  "file": "push.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/push.json",
+  "bytes": 314
+ },
+ {
+  "tag": "meta ai",
+  "file": "meta ai.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/meta_ai.json",
+  "bytes": 209
+ },
+ {
+  "tag": "X",
+  "file": "X.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/X.json",
+  "bytes": 614
+ },
+ {
+  "tag": "cn",
+  "file": "cn.srs",
+  "type": "binary",
+  "source": "/data/other/ShellCrash/ruleset_sb/geosite-cn.srs",
+  "bytes": 60343
+ },
+ {
+  "tag": "__geoip_cn",
+  "file": "__geoip_cn.srs",
+  "type": "binary",
+  "source": "/data/other/ShellCrash/ruleset_sb/geoip-cn.srs",
+  "bytes": 34259
+ },
+ {
+  "tag": "AdFull",
+  "file": "AdFull.json",
+  "type": "source",
+  "source": "/data/other/adcustom/AdFull.json",
+  "bytes": 16851
+ },
+ {
+  "tag": "Google FCM_converted_backup",
+  "file": "Google FCM_converted_backup.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Google FCM.json",
+  "bytes": 1001
+ },
+ {
+  "tag": "Steam_converted_backup",
+  "file": "Steam_converted_backup.json",
+  "type": "source",
+  "source": "/data/other/ShellCrash/ruleset_sb/Steam.json",
+  "bytes": 653
+ }
+]
