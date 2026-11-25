@@ -1,0 +1,1 @@
+{"version": 3, "rules": [{"domain": ["graph.facebook.com", "meta.graph.meta.com"]}, {"domain_suffix": ["facebook.com", "fbcdn.net", "meta.ai", "meta.com", "metaaiusercontent.com", "metaaivm.com", "muse.ai"]}]}
